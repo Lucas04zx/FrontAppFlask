@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classifier Dashboard",
+  "description": "Dashboard interativo e responsivo para predição da espécie da flor Iris (Setosa, Versicolor, Virginica) com integração de API de Machine Learning, gráficos dimensionais e histórico de predições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
